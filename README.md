@@ -1,8 +1,8 @@
 # Qiskit-note
-- [A typical JD]()
-- [A textbook]()
-- [Qiskit Advocates program]()
-- [A roadmap]()
+- [A typical JD](https://github.com/lmhoang45/Qiskit-note/tree/main#a-typical-job-description-quantum-research-scientist-summer-intern-2023)
+- [A textbook](https://github.com/lmhoang45/Qiskit-note/tree/main#qiskit-textbook-a-good-tutorial-on-qiskit-and-relevant-knowledge-from-basics-of-quantum-information-quantum-algorithms-classics-from-shors-and-grovers-and-more-recent-developments-such-as-vqe-and-qaoa-to-qubits-entanglement-quantum-protocols-quantum-circuits-and-quantum-machine-learning-of-course)
+- [Qiskit Advocates program](https://github.com/lmhoang45/Qiskit-note/tree/main#qiskit-advocates-program-details-are-useful-notes-here-a-few-things-that-count)
+- [A roadmap](https://github.com/lmhoang45/Qiskit-note/tree/main#last-but-not-least-here-is-a-useful-roadmap)
 
 When writing this note, I just finished my first year as a Ph.D. student in North America. I am interested in Quantum computing as a research topic for my dissertation. I am also looking for an internship next summer. Putting these together, the Quantum Computing Internship at IBM research is a perfect match and a goal to aim for.
 I browsed for some internship opportunities at IBM, and here are few things I learn.
