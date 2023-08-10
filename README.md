@@ -23,5 +23,5 @@ Details about the program and some useful notes [here](https://github.com/qiskit
 
 ### A useful [roadmap](https://research.ibm.com/blog/2023-quantum-internships?_gl=1*17ynky9*_ga*MjA4Njc1MzI5Mi4xNjkxNjI4NDU4*_ga_FYECCCS21D*MTY5MTYyODQ1Ny4xLjEuMTY5MTYyODYxOS4wLjAuMA..)
 - A post at [Medium](https://medium.com/@shraddhaaangiras0911/full-length-qiskit-certification-test-9a4f0b12d5d5)
-- Qiskit Certification exam [here](https://www.ibm.com/training/certification/C0010300) (not sure if they're the same thing)
+
   
