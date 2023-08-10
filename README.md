@@ -13,11 +13,11 @@ This link may be disabled in the future, so I captured a screenshot ![](/JD.JPG)
 
 Quite a few things to do, huh? Some of the relevant links.
 
-### [Qiskit textbook](https://qiskit.org/learn): 
+### [Qiskit textbook](https://qiskit.org/learn)
 A good tutorial on Qiskit and relevant knowledge, from Basics of Quantum information, Quantum algorithms (classics from Shor's and Grover's, and more recent developments such as VQE and QAOA), to Qubits, Entanglement, Quantum protocols, Quantum circuits, and Quantum machine learning (of course!)
 
-### [Qiskit Advocates program](https://qiskit.org/advocates): 
-details are useful notes [here](https://github.com/qiskit-advocate/application-guide). A few things that count:
+### [Qiskit Advocates program](https://qiskit.org/advocates)
+Details about the program and some useful notes [here](https://github.com/qiskit-advocate/application-guide). A few things that count:
    - Your community contribution. Learn how to [contribute](https://github.com/qiskit-advocate/application-guide#contributions)
    - Take a [test](https://github.com/qiskit-advocate/application-guide#test): more details [here](https://www.ibm.com/training/certification/C0010300) and [here](https://slides.com/javafxpert/prep-qiskit-dev-cert-exam#/22/0/4).
 
